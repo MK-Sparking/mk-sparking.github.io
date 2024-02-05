@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Privacy Policy
-date: 2024-01-02 19:20:23 +0900
+date: 2024-02-01 19:20:23 +0900
 category: sample
 ---
 **Privacy Policy**
