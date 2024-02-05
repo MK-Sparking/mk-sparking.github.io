@@ -1,3 +1,9 @@
+---
+layout: post
+title: Privacy Policy
+date: 2024-01-02 19:20:23 +0900
+category: Privacy Policy
+---
 **Privacy Policy**
 
 LilyTec built the Tappy Store app as a Free app. This SERVICE is provided by LilyTec at no cost and is intended for use as is.
